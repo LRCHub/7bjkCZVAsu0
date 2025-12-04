@@ -1,0 +1,104 @@
+{
+  "version": 1,
+  "base_track": "ピポピポ -People People-",
+  "base_artist": "Neko Hacker",
+  "createdAt": "2025-12-04T07:58:55.805268Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "ピポピポ -People People- feat. ななひら",
+      "artist": "Neko Hacker feat. Nanahira",
+      "has_synced": true,
+      "path": "select/01_ピポピポ_-People_People-_feat._ななひら_Neko_Hacker_feat._Nanahira.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "ピポピポ -People People- feat. ななひら",
+      "artist": "Neko Hacker",
+      "has_synced": true,
+      "path": "select/02_ピポピポ_-People_People-_feat._ななひら_Neko_Hacker.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "ピポピポ -People People-",
+      "artist": "Neko Hacker feat. ななひら",
+      "has_synced": true,
+      "path": "select/03_ピポピポ_-People_People-_Neko_Hacker_feat._ななひら.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "ピポピポ -People People- feat. ななひら",
+      "artist": "Neko Hacker/Nanahira",
+      "has_synced": true,
+      "path": "select/04_ピポピポ_-People_People-_feat._ななひら_Neko_Hacker_Nanahira.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "ピポピポ -People People- (WotoHacker Ver.)",
+      "artist": "Neko Hacker",
+      "has_synced": true,
+      "path": "select/05_ピポピポ_-People_People-_(WotoHacker_Ver.)_Neko_Hacker.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "ピポピポ -People People-",
+      "artist": "Neko Hacker",
+      "has_synced": true,
+      "path": "select/06_ピポピポ_-People_People-_Neko_Hacker.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "ピポピポ -People People- (WotoHacker Ver.)",
+      "artist": "Neko Hacker & wotoha",
+      "has_synced": true,
+      "path": "select/07_ピポピポ_-People_People-_(WotoHacker_Ver.)_Neko_Hacker_&_wotoha.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "ピポピポ -People People-",
+      "artist": "Neko Hacker & wotoha",
+      "has_synced": true,
+      "path": "select/08_ピポピポ_-People_People-_Neko_Hacker_&_wotoha.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "ピポピポ -People People-",
+      "artist": "Neko Hacker & をとは",
+      "has_synced": true,
+      "path": "select/09_ピポピポ_-People_People-_Neko_Hacker_&_をとは.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Neko Hacker - ピポピポ -People People- feat. ななひら",
+      "artist": "Neko Hacker",
+      "has_synced": true,
+      "path": "select/10_Neko_Hacker_-_ピポピポ_-People_People-_feat._ななひら_Neko_Hacker.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "ピポピポ -People People- feat. ななひら",
+      "artist": "Neko Hacker, ななひら",
+      "has_synced": true,
+      "path": "select/11_ピポピポ_-People_People-_feat._ななひら_Neko_Hacker,_ななひら.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ピポピポ -People People- (feat. ななひら)",
+      "artist": "Neko Hacker",
+      "has_synced": false,
+      "path": "select/pl_01_ピポピポ_-People_People-_(feat._ななひら)_Neko_Hacker.txt"
+    }
+  ]
+}
